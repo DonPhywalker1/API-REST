@@ -1,0 +1,1 @@
+The REST API project allows the user to create, detete,update or read. Using the right inputs (commands) these operations can performed.
